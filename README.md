@@ -3,9 +3,10 @@
   <h1>⚡ Auto-Daily-Notifier</h1>
   <p>An automated cloud workflow powered by Python and GitHub Actions. Runs scheduled daily tasks without external server hosting.</p>
 
-  <p>
+<p>
     <a href="https://github.com/MrBoss002/Auto-Daily-Notifier/actions"><img src="https://img.shields.io/github/actions/workflow/status/MrBoss002/Auto-Daily-Notifier/daily-run.yml?branch=main&style=for-the-badge&logo=github&label=Workflow" alt="Workflow Status"/></a>
     <a href="https://github.com/MrBoss002/Auto-Daily-Notifier/stargazers"><img src="https://img.shields.io/github/stars/MrBoss002/Auto-Daily-Notifier?style=for-the-badge&color=0088CC" alt="Stars"/></a>
+    <a href="https://t.me/MYB4T"><img src="https://img.shields.io/badge/TG-Auto%20Briefings-10b981?style=for-the-badge&logo=telegram&logoColor=white" alt="Automated Briefings"/></a>
   </p>
 
 </div>
@@ -20,6 +21,18 @@
 - ⏰ **Scheduled CRON:** Triggered automatically every day at 06:00 UTC.
 - 🕹️ **Manual Trigger:** Supports one-click execution from the GitHub Actions tab.
 
+---
+
+### 📢 Live Preview & Community
+
+Want to see how **Auto-Daily-Notifier** works in real-time? All daily automated tech briefings are broadcasted directly to our Telegram channel.
+
+* 📡 **Live Output:** Check real-time daily automated drops as they execute.
+* 💬 **Community:** Connect with new members, share feedback, and track bot updates.
+
+❖ &nbsp; **JOIN THE CHANNEL: &nbsp; ➜** &nbsp;&nbsp; <a href="https://t.me/MYB4T"><img src="https://img.shields.io/badge/@MYB4T-2ea44f?style=for-the-badge&logo=telegram&logoColor=white" alt="@MYB4T"/></a>
+
+---
 ---
 
 ## ⚙️ Setup Instructions
