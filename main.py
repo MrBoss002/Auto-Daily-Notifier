@@ -52,12 +52,12 @@ def main():
     news_summary = fetch_tech_news()
     
     message = (
-        "☀️ **Good Morning! Here is your Daily Automated Briefing**\n\n"
-        "🔥 **Top Trending Tech Headlines:**\n"
+        "☀️ *Good Morning! Here is your Daily Automated Briefing*\n\n"
+        "🔥 *Top Trending Tech Headlines:*\n"
         f"{news_summary}\n\n"
-        "🤖 *Executed automatically [via GitHub](https://github.com/MrBoss002) Actions Cloud Workflow.*\n\n"
-        "**◈ Powered By: @MrBossTG ♥️**\n"
-        "**◈ Developed By: @MrBossRobot ♥️**" 
+        "🤖 _Executed automatically_ [via GitHub](https://github.com/MrBoss002) _Actions Cloud Workflow_.\n\n"
+        "*◈ Powered By: @MrBossTG ♥️*\n"
+        "*◈ Developed By: @MrBossRobot ♥️*" 
     )
     
     send_telegram_message(message)
